@@ -67,6 +67,9 @@ SQL scripts are available in the [`sql`](./sql) folder.
 ## Power BI Dashboard
 
 The Power BI dashboard was created to provide a clear view of overall e-commerce performance.
+### Dashboard Preview
+
+![E-commerce Sales Performance Dashboard](./e-commerce%20sales%20performance%20dashboard.png)
 
 Key metrics and visualisations include:
 
