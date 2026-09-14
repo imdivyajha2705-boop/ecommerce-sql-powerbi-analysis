@@ -91,3 +91,27 @@ ecommerce-sql-powerbi-analysis/
 │
 ├── README.md
 └── .gitattributes
+```
+## Key Business Insights
+
+- The business generated **£683.2K in revenue from 6,941 completed orders**, with an overall **Average Order Value (AOV) of £98.44**.
+
+- Revenue grew substantially across the analysis period, from **£23.3K in January 2025 to £42.9K in July 2026**, and reached a peak of **£51.5K in December 2025**. January 2026 then recorded the largest monthly decline at **-27.89% MoM**.
+
+- In the latest period, **July 2026 revenue decreased 4.15% MoM** from £44.8K to £42.9K despite orders increasing from 441 to 448. AOV declined from **£101.57 to £95.83**, indicating that lower order value rather than order volume drove the revenue decline.
+
+- **Organic Search was the highest-revenue sales channel**, generating **£163.5K**, followed by Paid Search at £150.1K. In July 2026, Organic Search revenue grew **35.18% MoM**, while Referral and Organic Social recorded substantial declines.
+
+- **London was the strongest region**, generating **£125.2K (18.33% of company revenue)**, followed by the South East at £115.5K (16.90%). Together, the two regions contributed more than 35% of total revenue.
+
+- Product performance showed an important difference between revenue and sales volume. **Cotton Towels was the highest-revenue product at £55.2K**, while Shampoo sold substantially more units but generated lower revenue, demonstrating the impact of product price and mix on overall sales performance.
+
+- Customer retention was strong historically: **1,324 of 1,651 purchasing customers were repeat customers, giving an 80.19% repeat-customer rate**. Monthly order activity also shifted heavily toward returning customers over time; by July 2026 there were **428 returning-customer orders compared with only 20 new-customer orders**.
+
+- Customer segmentation identified **122 high-value customers generating £160.5K**, with an average customer value of £1,315.94. However, **832 customers (50.39%) met the project's 90-day churn definition**, highlighting a sizeable inactive-customer segment and a potential retention/reactivation opportunity.
+
+  ## Skills Demonstrated
+
+- **SQL:** CTEs, joins, aggregations, window functions, `LAG()`, `DENSE_RANK()`, conditional aggregation, customer segmentation and time-based analysis
+- **Power BI:** Data modelling, relationships, Date table, DAX measures, filter context, KPI cards, slicers and interactive visualisations
+- **Business Analysis:** Revenue trend analysis, customer retention and churn, product performance, channel performance, regional analysis and KPI investigation
